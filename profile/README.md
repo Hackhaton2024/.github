@@ -1,5 +1,3 @@
-
-
 # ![](logo-no-background.svg)
 
 # STOUP
