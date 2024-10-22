@@ -1,12 +1,27 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# ![](logo-no-background.svg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# STOUP
+
+## SoluTion d’emploi pOur jeUnes diPlômés
+
+By *L’Equipe De Choc* - Hackathon 2024
+
+------
+
+Développée dans le cadre du Hackathon 2024, STOUP est une application Web destinée aux jeunes diplômés. Elle propose un accès simplifié aux offres d’emplois de France Travail.
+
+Au travers un design pensé pour les jeunes générations, STOUP utilise l’intelligence artificielle développée par France Travail, Roméo, permettant d’accéder à des listes de métiers pertinentes sur la base d’un simple texte libre.
+
+L’utilisateur peut ensuite rechercher les offres d’emplois correspondantes, tout en ayant la possibilité de filtrer sa recherche, ainsi que de la sauvegarder pour la prochaine utilisation.
+
+Le projet a été conçu et développé sur 1 jour et demi en mode Agile, par les membres de l’équipe suivants :
+
+- FrontEnd
+  - @DessereQuentin
+  - @[Vrogdish](https://github.com/Vrogdish)
+
+- Backend
+  - @cheimaeAssarar
+  - @[atsuhikoMochizuki](https://github.com/atsuhikoMochizuki)
