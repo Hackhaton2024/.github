@@ -1,7 +1,7 @@
 # .github
 
 
-# ![](./logo-no-background.png)
+# ![](./logo-no-background.svg)
 
 # STOUP
 
