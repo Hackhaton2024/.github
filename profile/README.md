@@ -24,7 +24,8 @@ Le projet a été conçu et développé sur 1 jour et demi en mode Agile, par le
   - @cheimaeAssarar
   - @[atsuhikoMochizuki](https://github.com/atsuhikoMochizuki)
  
-### Lien vers le code source 
+### Lien vers le code source et le dossier de conception
 https://github.com/Hackhaton2024/Hackhaton2024_ROOT-REPOSITORY
 
-### Lien vers le kanban du projet
+### Lien vers le kanban utilisé pour la gestion du projet
+https://github.com/orgs/Hackhaton2024/projects/2
